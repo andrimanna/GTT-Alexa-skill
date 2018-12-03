@@ -1,2 +1,2 @@
 # GTT-Alexa-skill
-Alexa skill to know when you bus will pass in Turin
+Alexa skill to know when your bus will pass in Turin
