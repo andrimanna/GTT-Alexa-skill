@@ -1,0 +1,17 @@
+{
+  "name": "gtt",
+  "version": "1.0.0",
+  "description": "Alexa skill to know when your bus will pass in Turin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea Mannarella",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "aws-sdk": "^2.368.0",
+    "fetch": "^1.1.0"
+  },
+  "repository": "https://github.com/andrimanna/GTT-Alexa-skill/upload/master"
+}
